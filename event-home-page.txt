@@ -3,7 +3,7 @@
 
   // 1) event-home-page :
 
-  // Netlify link : https://heroic-puppy-9f1cfe.netlify.app/
+
 
 
 <!DOCTYPE html>
