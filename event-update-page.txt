@@ -1,5 +1,5 @@
 // 2) event-update-page
-// netlify link :  https://magenta-vacherin-e8c4a9.netlify.app/
+
 
 
 <!DOCTYPE html>
